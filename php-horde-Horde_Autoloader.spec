@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	c464fc1c3e41a2c31ef1e65ae5f20d5e
-URL:		http://pear.horde.org/package/Horde_Autoloader/
+URL:		https://github.com/horde/horde/tree/master/framework/Autoloader/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR
