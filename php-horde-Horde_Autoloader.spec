@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Autoloader
 Name:		php-horde-Horde_Autoloader
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	c464fc1c3e41a2c31ef1e65ae5f20d5e
+# Source0-md5:	98dc26117c17996b257bc14a05a4efc3
 URL:		https://github.com/horde/horde/tree/master/framework/Autoloader/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
