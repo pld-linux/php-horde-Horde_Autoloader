@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Autoloader
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Autoloader
 Name:		php-horde-Horde_Autoloader
 Version:	1.0.1
